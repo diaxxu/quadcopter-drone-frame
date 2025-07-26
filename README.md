@@ -1,6 +1,6 @@
-# 🛸 Quadcopter Drone Frame – DJI Style
+#  Quadcopter Drone Frame 
 
-This is my **first custom drone frame** designed in CAD 🎉  
+This is my **first custom drone frame** designed in CAD   
 Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for stability.
 
 ![Drone Frame Top View](./path/to/top-view.png)
@@ -29,16 +29,6 @@ Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for st
 
 ---
 
-## 🧰 Future Work
-
-- Add FPV camera mount  
-- Create shock-absorbing system for gimbal or GoPro  
-- Simulate stress & vibration in Fusion 360  
-- Generate laser cut or CNC-ready DXF files  
-- Print lightweight prototype with PLA for test fitting  
-- Final build with carbon fiber or composite materials
-
----
 
 ## 🛠️ Made With
 
