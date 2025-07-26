@@ -5,7 +5,6 @@ Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for st
 
 ![Drone Frame Top View](./top-view.png)
 ![Drone Frame Perspective](./perspective.png)
-
 ---
 
 ## Design Overview
