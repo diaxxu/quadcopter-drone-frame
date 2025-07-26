@@ -3,8 +3,8 @@
 This is my **first custom drone frame** designed in CAD   
 Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for stability.
 
-![Drone Frame Top View](./path/to/top-view.png)
-![Drone Frame Perspective](./path/to/perspective.png)
+![Drone Frame Top View](./top-view.png)
+![Drone Frame Perspective](./perspective.png)
 
 ---
 
