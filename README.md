@@ -1,7 +1,7 @@
 #  Quadcopter Drone Frame 
 
 This is my **first custom drone frame** designed in CAD   
-Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for stability.
+Inspired by DJI-style quadcopters – 
 
 ![Drone Frame Top View](./top-view.png)
 ![Drone Frame Perspective](./perspective.png)
@@ -21,9 +21,8 @@ Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for st
 
 ##  Design Goals
 
--  Clean symmetrical layout for flight stability  
+-  symmetrical layout for flight stability  
 -  Easy to build and repair (modular arms + simple stack)  
--  Designed for future expansion (GPS, camera, telemetry, etc.)  
 -  Lightweight, optimized for both manual FPV or autonomous missions
 
 ---
@@ -32,7 +31,7 @@ Inspired by DJI-style quadcopters – compact, symmetrical, and optimized for st
 ##  Made With
 
 - **Fusion 360** for CAD  
-- **Cura (optional)** for slicing 3D printable prototypes  
+- **Cura** for slicing 3D printable prototypes  
 - **Laser Cutter / CNC Router** (planned for final version)  
 
 ---
